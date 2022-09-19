@@ -4,6 +4,8 @@
 
 フォローすることで関連タグやトレンドをTL上に表示さることができます<br>自動投稿なので不快な投稿をリツイートすることがあります(DMでお知らせ下さい)<br>by [@cocoyayan](https://twitter.com/cocoyayan)
 
+---
+
 Twitter Account [@_koyoribot_](https://twitter.com/_koyoribot_)
 
 ## 除外、削除
