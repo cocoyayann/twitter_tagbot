@@ -2,8 +2,7 @@
 
 ホロライブ6期生 博衣こより🧪([@hakuikoyori](https://twitter.com/hakuikoyori))の非公式botアカウント
 
-フォローすることで関連タグやトレンドをTL上に表示さることができます
-自動投稿なので不快な投稿をリツイートすることがあります(DMでお知らせ下さい) 
+フォローすることで関連タグやトレンドをTL上に表示さることができます\n自動投稿なので不快な投稿をリツイートすることがあります(DMでお知らせ下さい)\n
 by [@cocoyayan](https://twitter.com/cocoyayan)
 
 Twitter Account [_koyoribot_](https://twitter.com/_koyoribot_)
