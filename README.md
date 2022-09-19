@@ -1,10 +1,10 @@
 # 博衣こより TwitterBot (非公式)
-Account [here](twitter.com/_koyoribot_)
+Account [here](https://twitter.com/_koyoribot_)
 
-ホロライブ6期生 博衣こより🧪([@hakuikoyori](twitter.com/hakuikoyori))の非公式botアカウント
+ホロライブ6期生 博衣こより🧪([@hakuikoyori](https://twitter.com/hakuikoyori))の非公式botアカウント
 フォローすることで関連タグやトレンドをTL上に表示さることができます
 自動投稿なので不快な投稿をリツイートすることがあります(DMでお知らせ下さい) 
-by [@cocoyayan](twitter.com/cocoyayan)
+by [@cocoyayan](https://twitter.com/cocoyayan)
 
 
 ## 機能
@@ -23,6 +23,6 @@ by [@cocoyayan](twitter.com/cocoyayan)
 -
 
 
-twitter Account [cocoyayan](twitter.com/cocoyayan)
+twitter Account [cocoyayan](https://twitter.com/cocoyayan)
 
 ## Licence
