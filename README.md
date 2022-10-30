@@ -14,9 +14,10 @@ Twitter Account [@_koyoribot_](https://twitter.com/_koyoribot_)
 - 特定のタグのついたツイートを自動でリツイートする             <!--check_tag-->
 - 博衣こより関連のトレンド入りをツイートする                  <!--check_trend-->
 - ホロメンの関連投稿をリツート                             <!--from_member-->
+- youtubeの配信開始を通知
 - こよりじゅーる（一週間の配信の予定表）を固定                <!--koyodule-->
 - TwitterAPIのリソースが空いている場合はランダムにいいねします <!--random_good-->
-- たまにこよりすけっちを描いてる人をフォロー                  <!--algorithm_folow-->
+- たまに絵師さんを描いてる人をフォロー　　　                  <!--algorithm_folow-->
 - <!--こよちゃんの投稿をいいね                                 good_koyori-->
 
 ## 対象のタグ、ワード
@@ -41,7 +42,7 @@ Github ActionsでPythonを定期実行してTwetterAPIを呼び出していま�
 ## そのほか
 - 自分が使いたいだけなので気分で突然終了したりするかもしれません
 - 田舎の高校生がプログラミングの勉強ついでに作ってます、精度はそんなものです
-- Coverさんに怒られたりBANされたらそのまま終了するつもりです
+- TwitterとかCoverに怒られたらそのまま終了するつもりです
 - 需要があれば他のホロメンのボットもつくるかも
 
 My twitter Account [@cocoyayan](https://twitter.com/cocoyayan)
