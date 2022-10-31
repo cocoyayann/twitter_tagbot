@@ -1,14 +1,16 @@
 # 博衣こより🧪TwitterBot(非公式)　テスト中
 
-ホロライブ6期生 博衣こより🧪([@hakuikoyori](https://twitter.com/hakuikoyori))の非公式botアカウント
+ホロライブ6期生　holoxのずの〜！博衣こより🧪([@hakuikoyori](https://twitter.com/hakuikoyori))の'非公式'ボットだよ〜
+フォローしてくれたら＃こよりすけっち をTL上に表示させるよ
+問い合わせは[@cocoyayan](https://twitter.com/cocoyayan)
 
-フォローすることで関連タグやトレンドをTL上に表示さることができます<br>自動投稿なので間違った投稿をリツイートすることがあります(DMでお知らせ下さい)<br>by [@cocoyayan](https://twitter.com/cocoyayan)
 
-Twitter Account [@_koyoribot_](https://twitter.com/_koyoribot_)
 
 ## 除外、削除
 自分の投稿をリツイートされたくない、または不適切な投稿をリツイートしている場合はTwitterのDMでご連絡ください、除外リストに追加します。
 
+除外リスト
+ブロックリスト
 
 ## 機能
 - 特定のタグのついたツイートを自動でリツイートする             <!--check_tag-->
