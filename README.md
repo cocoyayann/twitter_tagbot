@@ -8,7 +8,7 @@
 
 ## リツイートまでの流れ
 - 検索（query:"#こよりすけっち has:media -is:retweet"）
-- 除外対象のユーザーからのツイートを除く [除外リスト](https://raw.githubusercontent.com/cocoyayann/koyori_bot/main/047ac76b5ea96a41605.csv)
+- 除外対象のユーザーからのツイートを除く [除外リスト](https://github.com/cocoyayann/koyori_bot/blob/main/047ac76b5ea96a41605.csv)
 - スパムの可能性のあるツイートを保留　--> 手動で確認
 - リツイート
 
