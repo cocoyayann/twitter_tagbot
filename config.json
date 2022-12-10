@@ -1,0 +1,20 @@
+{
+    "こよりすけっち":{
+        "query":"#こよりすけっち has:media -is:retweet",
+        "access_token":"***********",
+        "access_token_secret":"************",
+        "log_file":"/home/user/koyo.csv"
+    },
+    "ねねアルバム":{
+        "query":"#ねねアルバム has:media -is:retweet",
+        "access_token":"************",
+        "access_token_secret":"**********",
+        "log_file":"/home/user/nene.csv"
+    },
+    "LamyArt":{
+        "query":"#LamyArt has:media -is:retweet",
+        "access_token":"***********",
+        "access_token_secret":"***********",
+        "log_file":"/home/user/lamy.csv"
+    }
+}
